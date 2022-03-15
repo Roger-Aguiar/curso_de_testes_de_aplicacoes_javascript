@@ -15,8 +15,6 @@ function execute(number1, number2, operator) {
             return integer1 * integer2;
         case '/':
             return integer1 / integer2;
-        default:
-            break;
     }
 }
 
